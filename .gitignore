@@ -41,3 +41,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Altium history
+/PCBA/Atlas_Sensor_Board_RevA/History
+/PCBA/AtlasRevA/History
