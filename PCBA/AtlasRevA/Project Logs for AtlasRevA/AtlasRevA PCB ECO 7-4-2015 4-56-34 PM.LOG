@@ -1,0 +1,8 @@
+Added Component: Designator=R47(RES2512W)
+Added Component: Designator=R48(RES2512W)
+Added Pin To Net: NetName=GND Pin=R47-1
+Added Pin To Net: NetName=DRVB_I_SENSE_P Pin=R47-2
+Added Pin To Net: NetName=GND Pin=R48-1
+Added Pin To Net: NetName=DRVB_I_SENSE_P Pin=R48-2
+Added Member To Class: ClassName=Motor B Driver Member=Component R47 100m
+Added Member To Class: ClassName=Motor B Driver Member=Component R48 100m

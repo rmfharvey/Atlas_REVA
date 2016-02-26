@@ -1,0 +1,12 @@
+Added Component: Designator=C8(CAP1206W)
+Added Component: Designator=R21(RES2512W)
+Added Component: Designator=R22(RES2512W)
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=DRVA_I_SENSE_P Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=DRVA_I_SENSE_P Pin=R22-2
+Added Member To Class: ClassName=Microcontroller Member=Component C8 10uF
+Added Member To Class: ClassName=Motor A Driver Member=Component R21 100m
+Added Member To Class: ClassName=Motor A Driver Member=Component R22 100m

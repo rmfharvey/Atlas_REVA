@@ -1,0 +1,46 @@
+Added Component: Designator=C1(CAP0603W)
+Added Component: Designator=C2(SMD Elec Cap (5.8_5.8_4))
+Added Component: Designator=J1(MOLEX_87831-1010)
+Added Component: Designator=L1(RES0603W)
+Added Component: Designator=R1(RES0603W)
+Added Component: Designator=U1(TSSOP14)
+Added Pin To Net: NetName=3.3V Pin=C1-1
+Added Pin To Net: NetName=3.3V Pin=C2-2
+Added Pin To Net: NetName=3.3V Pin=L1-1
+Added Pin To Net: NetName=3.3V Pin=U1-11
+Added Pin To Net: NetName=3.3V Pin=U1-12
+Added Net: Name=3.3V
+Added Pin To Net: NetName=C\S\ Pin=J1-3
+Added Pin To Net: NetName=C\S\ Pin=U1-1
+Added Net: Name=C\S\
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO Pin=J1-2
+Added Pin To Net: NetName=MISO Pin=R1-1
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=J1-1
+Added Pin To Net: NetName=MOSI Pin=U1-4
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_5 Pin=L1-2
+Added Net: Name=NetJ1_5
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-3
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=SCK Pin=J1-4
+Added Pin To Net: NetName=SCK Pin=U1-2
+Added Net: Name=SCK
+Added Class: Name=Atlas_Sensor_Board_RevA

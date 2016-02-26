@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=DRVA_EN Pin=R55-1
+Removed Pin From Net: NetName=NetM6_3 Pin=U1-38
+Added Pin To Net: NetName=DRVA_EN Pin=R55-2
+Added Pin To Net: NetName=NetM6_3 Pin=U1-56
+Added Pin To Net: NetName=NetR93_1 Pin=U9-12
+Added Pin To Net: NetName=NetR94_1 Pin=U10-12
+Added Pin To Net: NetName=NetR55_1 Pin=R55-1
+Added Pin To Net: NetName=NetR55_1 Pin=U1-57
+Added Net: Name=NetR55_1

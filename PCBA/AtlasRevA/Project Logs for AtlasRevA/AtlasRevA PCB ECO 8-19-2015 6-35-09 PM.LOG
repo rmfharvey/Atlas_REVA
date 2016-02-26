@@ -1,0 +1,9 @@
+Added Component: Designator=R142(RES0603W)
+Added Pin To Net: NetName=GND Pin=R142-1
+Added Pin To Net: NetName=GND Pin=U9-12
+Added Pin To Net: NetName=GND Pin=U10-12
+Added Pin To Net: NetName=NetJ1_21 Pin=J1-21
+Added Pin To Net: NetName=NetJ1_21 Pin=R142-2
+Added Net: Name=NetJ1_21
+Added Member To Class: ClassName=Motor A Driver Member=Component C9 2.2uF
+Added Member To Class: ClassName=Power Member=Component R142 1k

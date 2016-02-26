@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=C\S\_BLE Pin=J10-7
+Removed Pin From Net: NetName=GND Pin=J10-8
+Change Component DesignItemId : Designator=J10 Old DesignItemId=1x8 Header New DesignItemId=1x6 Header
+Change Component Comment : Designator=J10 Old Comment=1x8 Header New Comment=1x6 Header
+Change Component Description : Designator=J10 Old Description=1x8 Header, 2.52mm pitch New Description=1x6 Header, 2.52mm pitch
+Added Pin To Net: NetName=GND Pin=U9-12
+Added Pin To Net: NetName=GND Pin=U10-12

@@ -1,0 +1,63 @@
+Bill of Material for 
+On 7/18/2015 at 2:15:08 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.1uF               CAP0603W        20    C1, C2, C3, C4, C5, C6, C7                        
+                                           C23, C25, C27, C29, C44, C46
+                                           C48, C50, C51, C52, C53, C60
+                                           C62
+ 0R                  RES0603W         1    R64                                               
+ 1000uF              SMD Elec Cap (13.5_15_12.5)    8    C22, C24, C26, C28, C43, C45                      
+                                           C47, C49
+ 100m                RES2512W         4    R21, R22, R47, R48                                
+ 100pF               CAP0603W         2    C21, C42                                          
+ 100R                RES0603W        20    R5, R6, R7, R8, R9, R10, R12                      
+                                           R13, R14, R15, R31, R32, R33
+                                           R34, R35, R36, R38, R39, R40
+                                           R41
+ 10k                 RES0603W         7    R1, R17, R20, R43, R46, R60                       
+                                           R61
+ 10nF                CAP0603W        19    C10, C11, C13, C14, C17, C18                      
+                                           C20, C31, C32, C34, C35, C38
+                                           C39, C41, C55, C56, C57, C58
+                                           C59
+ 10uF                CAP1206R         2    C61, C63                                          
+ 10uF                CAP1206W         1    C8                                                
+ 13k3                RES0603W         2    R25, R51                                          
+ 1k                  RES0603W        10    R3, R11, R29, R37, R62, R63                       
+                                           R66, R67, R68, R69
+ 1x6 Header          1x6 Header       2    J2, J9                       1x6 Header, 2.52mm pitch 
+ 1x8 Header          1x8 Header       1    J10                          1x8 Header, 2.52mm pitch 
+ 2.2uF               SMD Elec Cap (5.5_5.4_4)    4    C9, C12, C30, C33                                 
+ 220R                RES0603W        10    R2, R24, R50, R55, R56, R57                       
+                                           R58, R59, R71, R72
+ 26k7                RES0603W         4    R16, R19, R42, R45                                
+ 2N7002P,215         SOT23-3M         3    M6, M13, M15                 NFET_SINGLE_360mA_60V 
+ 3.3v LDO            SOT-223-6        1    U6                           3.3v LDO             
+ 30pF                CAP0603W         2    C19, C40                                          
+ 330nF               CAP0805W         4    C15, C16, C36, C37                                
+ 39-29-3026          1x2 MicroFit     2    J6, J7                       1x2 MicroFit         
+ 39-30-1240          MOLEX 39-30-1240    1    J1                           Male Connector for ATX Power Supply 
+ 4.7uF               CAP1206W         1    C54                                               
+ 470R                RES0603W         4    R18, R23, R44, R49                                
+ 4k7                 RES0603W         2    R4, R30                                           
+ 604R                RES1206W         2    R27, R53                                          
+ 68R                 RES0603W         6    R26, R28, R52, R54, R65, R70                      
+ 87831-1010          MOLEX_87831-1010    2    J3, J4                       2x5 IDC Header       
+ BAT43W-G3-18        SOD-123          4    D1, D2, D7, D8                                    
+ BSC009NE2L          PowerPAK-SO8    10    M1, M2, M3, M4, M5, M8, M9   NFET_SINGLE_100A_25v 
+                                           M10, M11, M12
+ FT232RL             SSOP-28          1    U4                           UART Interface/Bridge 
+ LTST-S270KGKT       LED Green 0603    6    D3, D5, D9, D11, D13, D14                         
+ M701-330442         M701-330442      1    J5                           Board Mounted Vertical USB B-Type Plug 
+ NX1029X,115         SOT666-6N        2    M7, M14                      Complementary P/NFET 
+ PBSS4021NT,215      SOT23-3M         2    Q1, Q2                       NPN_SINGLE_8A_20v    
+ PIC24FJ128GA310-I/PT TQFP100 0.4mm Pitch    1    U1                                                
+ RN41-I/RM           RN41             1    U5                           2.4GHz Class 1 Bluetooth Module 
+ SPST Momentary      TECONN_1571563    1    S1                           SPST Momentary Switch 
+ SPST                CTS_219-2MST     2    S2, S3                       SPST Microswitch Array (2 Switches) 
+ TLE7182EM           PG-SSOP24        2    U2, U3                       Full Bridge Gate Driver 
+ TP                  1mm Via          2    TP1, TP4                                          
+ TP                  TESTPOINT - 2.5mm Round Pad    4    TP2, TP3, TP5, TP6                                
+ VLMS1300-GS08       LED Red 0603     4    D4, D6, D10, D12                                  

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=US_PWM0 Pin=TP7-0
+Removed Pin From Net: NetName=US_PWM1 Pin=TP8-0
+Removed Pin From Net: NetName=US_PWM2 Pin=TP9-0
+Removed Pin From Net: NetName=US_PWM3 Pin=TP10-0
+Removed Pin From Net: NetName=US_PWM4 Pin=TP11-0
+Removed Pin From Net: NetName=US_PWM5 Pin=TP12-0
+Removed Member From Class: ClassName=Ultrasonics Member=TP7
+Removed Member From Class: ClassName=Ultrasonics Member=TP8
+Removed Member From Class: ClassName=Ultrasonics Member=TP9
+Removed Member From Class: ClassName=Ultrasonics Member=TP10
+Removed Member From Class: ClassName=Ultrasonics Member=TP11
+Removed Member From Class: ClassName=Ultrasonics Member=TP12
+Added Pin To Net: NetName=NetR93_1 Pin=U9-12
+Added Pin To Net: NetName=NetR94_1 Pin=U10-12

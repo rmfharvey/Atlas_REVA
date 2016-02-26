@@ -1,0 +1,9 @@
+Added Component: Designator=J16(1x5 Header)
+Added Pin To Net: NetName=MOSI Pin=J16-1
+Added Pin To Net: NetName=MISO Pin=J16-2
+Added Pin To Net: NetName=SCK Pin=J16-3
+Added Pin To Net: NetName=C\S\_A Pin=J16-4
+Added Pin To Net: NetName=C\S\_B Pin=J16-5
+Added Pin To Net: NetName=NetR93_1 Pin=U9-12
+Added Pin To Net: NetName=NetR94_1 Pin=U10-12
+Added Member To Class: ClassName=Connectors Member=Component J16 1x5 Header

@@ -1,0 +1,47 @@
+Added Component: Designator=D16(LED Green 0603)
+Added Component: Designator=D17(LED Green 0603)
+Added Component: Designator=D18(LED Green 0603)
+Added Component: Designator=D19(LED Green 0603)
+Added Component: Designator=D20(LED Green 0603)
+Added Component: Designator=R137(RES0603W)
+Added Component: Designator=R138(RES0603W)
+Added Component: Designator=R139(RES0603W)
+Added Component: Designator=R140(RES0603W)
+Added Component: Designator=R141(RES0603W)
+Added Pin To Net: NetName=GND Pin=D16-1
+Added Pin To Net: NetName=GND Pin=D17-1
+Added Pin To Net: NetName=GND Pin=D18-1
+Added Pin To Net: NetName=GND Pin=D19-1
+Added Pin To Net: NetName=GND Pin=D20-1
+Added Pin To Net: NetName=3.3V Pin=R137-1
+Added Pin To Net: NetName=5V Pin=R138-2
+Added Pin To Net: NetName=12V Pin=R139-2
+Added Pin To Net: NetName=-12V Pin=R140-2
+Added Pin To Net: NetName=5VSB Pin=R141-2
+Added Pin To Net: NetName=GND Pin=U9-12
+Added Pin To Net: NetName=GND Pin=U10-12
+Added Pin To Net: NetName=NetD16_2 Pin=D16-2
+Added Pin To Net: NetName=NetD16_2 Pin=R137-2
+Added Net: Name=NetD16_2
+Added Pin To Net: NetName=NetD17_2 Pin=D17-2
+Added Pin To Net: NetName=NetD17_2 Pin=R138-1
+Added Net: Name=NetD17_2
+Added Pin To Net: NetName=NetD18_2 Pin=D18-2
+Added Pin To Net: NetName=NetD18_2 Pin=R139-1
+Added Net: Name=NetD18_2
+Added Pin To Net: NetName=NetD19_2 Pin=D19-2
+Added Pin To Net: NetName=NetD19_2 Pin=R140-1
+Added Net: Name=NetD19_2
+Added Pin To Net: NetName=NetD20_2 Pin=D20-2
+Added Pin To Net: NetName=NetD20_2 Pin=R141-1
+Added Net: Name=NetD20_2
+Added Member To Class: ClassName=Power Member=Component D16 LTST-S270KGKT
+Added Member To Class: ClassName=Power Member=Component D17 LTST-S270KGKT
+Added Member To Class: ClassName=Power Member=Component D18 LTST-S270KGKT
+Added Member To Class: ClassName=Power Member=Component D19 LTST-S270KGKT
+Added Member To Class: ClassName=Power Member=Component D20 LTST-S270KGKT
+Added Member To Class: ClassName=Power Member=Component R137 68R
+Added Member To Class: ClassName=Power Member=Component R138 150R
+Added Member To Class: ClassName=Power Member=Component R139 470R
+Added Member To Class: ClassName=Power Member=Component R140 470R
+Added Member To Class: ClassName=Power Member=Component R141 150R

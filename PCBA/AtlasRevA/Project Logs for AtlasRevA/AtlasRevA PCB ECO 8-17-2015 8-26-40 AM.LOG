@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=U1_RX Pin=U5-14
+Added Component: Designator=R128(RES0603W)
+Added Pin To Net: NetName=U1_RX Pin=R128-1
+Added Pin To Net: NetName=NetR93_1 Pin=U9-12
+Added Pin To Net: NetName=NetR94_1 Pin=U10-12
+Added Pin To Net: NetName=NetR128_2 Pin=R128-2
+Added Pin To Net: NetName=NetR128_2 Pin=U5-14
+Added Net: Name=NetR128_2
+Added Member To Class: ClassName=Microcontroller Member=Component R128 220R

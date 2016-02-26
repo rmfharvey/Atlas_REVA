@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=DRVA_I_SENSE_P Pin=TP2-0
+Removed Pin From Net: NetName=GND Pin=TP3-0
+Removed Pin From Net: NetName=DRVB_I_SENSE_P Pin=TP5-0
+Removed Pin From Net: NetName=GND Pin=TP6-0
+Removed Member From Class: ClassName=Motor A Driver Member=TP2
+Removed Member From Class: ClassName=Motor A Driver Member=TP3
+Removed Member From Class: ClassName=Motor B Driver Member=TP5
+Removed Member From Class: ClassName=Motor B Driver Member=TP6
+Added Pin To Net: NetName=NetR93_1 Pin=U9-12
+Added Pin To Net: NetName=NetR94_1 Pin=U10-12

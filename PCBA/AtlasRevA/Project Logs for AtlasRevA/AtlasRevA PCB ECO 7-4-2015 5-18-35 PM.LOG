@@ -1,0 +1,58 @@
+Added Component: Designator=U2(PG-SSOP24)
+Added Component: Designator=U3(PG-SSOP24)
+Added Pin To Net: NetName=NetC16_1 Pin=U2-1
+Added Pin To Net: NetName=DRVA_BRG_H2 Pin=U2-2
+Added Pin To Net: NetName=DRVA_MOTORA_LO Pin=U2-3
+Added Pin To Net: NetName=DRVA_BRG_L2 Pin=U2-4
+Added Pin To Net: NetName=NetR9_1 Pin=U2-5
+Added Pin To Net: NetName=NetR4_1 Pin=U2-6
+Added Pin To Net: NetName=12V Pin=U2-7
+Added Pin To Net: NetName=U2_VREG Pin=U2-8
+Added Pin To Net: NetName=DRVA_EN Pin=U2-9
+Added Pin To Net: NetName=DRVA_ISN Pin=U2-10
+Added Pin To Net: NetName=DRVA_ISP Pin=U2-11
+Added Pin To Net: NetName=NetC21_1 Pin=U2-12
+Added Pin To Net: NetName=NetU2_13 Pin=U2-13
+Added Pin To Net: NetName=NetU2_13 Pin=U2-14
+Added Pin To Net: NetName=NetU2_15 Pin=U2-15
+Added Pin To Net: NetName=NetU2_15 Pin=U2-16
+Added Pin To Net: NetName=DRVA_ERR Pin=U2-17
+Added Pin To Net: NetName=DRVA_SCDL Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-19
+Added Pin To Net: NetName=DRVA_I_SENSE_P Pin=U2-20
+Added Pin To Net: NetName=DRVA_BRG_L1 Pin=U2-21
+Added Pin To Net: NetName=DRVA_MOTORA_HI Pin=U2-22
+Added Pin To Net: NetName=DRVA_BRG_H1 Pin=U2-23
+Added Pin To Net: NetName=NetC15_1 Pin=U2-24
+Added Pin To Net: NetName=GND Pin=U2-25
+Added Pin To Net: NetName=NetC37_1 Pin=U3-1
+Added Pin To Net: NetName=DRVB_BRG_H2 Pin=U3-2
+Added Pin To Net: NetName=MOTORB_LO Pin=U3-3
+Added Pin To Net: NetName=DRVB_BRG_L2 Pin=U3-4
+Added Pin To Net: NetName=NetR35_1 Pin=U3-5
+Added Pin To Net: NetName=NetR30_1 Pin=U3-6
+Added Pin To Net: NetName=12V Pin=U3-7
+Added Pin To Net: NetName=U3_VREG Pin=U3-8
+Added Pin To Net: NetName=DRVB_EN Pin=U3-9
+Added Pin To Net: NetName=DRVB_ISN Pin=U3-10
+Added Pin To Net: NetName=DRVB_ISP Pin=U3-11
+Added Pin To Net: NetName=NetC42_1 Pin=U3-12
+Added Pin To Net: NetName=NetU3_13 Pin=U3-13
+Added Pin To Net: NetName=NetU3_13 Pin=U3-14
+Added Pin To Net: NetName=NetU3_15 Pin=U3-15
+Added Pin To Net: NetName=NetU3_15 Pin=U3-16
+Added Pin To Net: NetName=DRVB_ERR Pin=U3-17
+Added Pin To Net: NetName=DRVB_SCDL Pin=U3-18
+Added Pin To Net: NetName=GND Pin=U3-19
+Added Pin To Net: NetName=DRVB_I_SENSE_P Pin=U3-20
+Added Pin To Net: NetName=DRVB_BRG_L1 Pin=U3-21
+Added Pin To Net: NetName=MOTORB_HI Pin=U3-22
+Added Pin To Net: NetName=DRVB_BRG_H1 Pin=U3-23
+Added Pin To Net: NetName=NetC36_1 Pin=U3-24
+Added Pin To Net: NetName=GND Pin=U3-25
+Added Member To Class: ClassName=Motor A Driver Member=Component U2 TLE7182EM
+Added Member To Class: ClassName=Motor B Driver Member=Component U3 TLE7182EM
+Added Room: Name=Connectors
+Added Room: Name=Microcontroller
+Added Room: Name=Motor A Driver
+Added Room: Name=Motor B Driver

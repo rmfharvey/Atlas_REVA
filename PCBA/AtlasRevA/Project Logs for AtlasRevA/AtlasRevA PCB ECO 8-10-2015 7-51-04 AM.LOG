@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=DRVA_BRIDGE_H Pin=M1-1
+Removed Pin From Net: NetName=DRVA_BRIDGE_H Pin=M1-2
+Removed Pin From Net: NetName=DRVA_BRIDGE_H Pin=M1-3
+Removed Pin From Net: NetName=12V Pin=M1-5
+Removed Pin From Net: NetName=12V Pin=M1-6
+Removed Pin From Net: NetName=12V Pin=M1-7
+Removed Pin From Net: NetName=12V Pin=M1-8
+Removed Pin From Net: NetName=12V Pin=M1-8
+Added Component: Designator=M8(PowerPAK-SO8)
+Added Pin To Net: NetName=12V Pin=M1-1
+Added Pin To Net: NetName=12V Pin=M1-2
+Added Pin To Net: NetName=12V Pin=M1-3
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M1-5
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M1-6
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M1-7
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M1-8
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M1-8
+Added Pin To Net: NetName=12V Pin=M8-1
+Added Pin To Net: NetName=12V Pin=M8-2
+Added Pin To Net: NetName=12V Pin=M8-3
+Added Pin To Net: NetName=NetM8_4 Pin=M8-4
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M8-5
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M8-6
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M8-7
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M8-8
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M8-8
+Added Pin To Net: NetName=NetR93_1 Pin=U9-12
+Added Pin To Net: NetName=NetR94_1 Pin=U10-12
+Added Member To Class: ClassName=Motor B Driver Member=Component M8 BSC009NE2L

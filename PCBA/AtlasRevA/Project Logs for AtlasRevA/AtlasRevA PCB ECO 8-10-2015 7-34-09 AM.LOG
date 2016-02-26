@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=12V Pin=M1-1
+Removed Pin From Net: NetName=12V Pin=M1-2
+Removed Pin From Net: NetName=12V Pin=M1-3
+Removed Pin From Net: NetName=DRVA_BRIDGE_H Pin=M1-5
+Removed Pin From Net: NetName=DRVA_BRIDGE_H Pin=M1-6
+Removed Pin From Net: NetName=DRVA_BRIDGE_H Pin=M1-7
+Removed Pin From Net: NetName=DRVA_BRIDGE_H Pin=M1-8
+Removed Pin From Net: NetName=12V Pin=M8-1
+Removed Pin From Net: NetName=12V Pin=M8-2
+Removed Pin From Net: NetName=12V Pin=M8-3
+Removed Pin From Net: NetName=DRVB_BRIDGE_H Pin=M8-5
+Removed Pin From Net: NetName=DRVB_BRIDGE_H Pin=M8-6
+Removed Pin From Net: NetName=DRVB_BRIDGE_H Pin=M8-7
+Removed Pin From Net: NetName=DRVB_BRIDGE_H Pin=M8-8
+Added Component: Designator=M9(PowerPAK-SO8)
+Added Component: Designator=M10(PowerPAK-SO8)
+Added Component: Designator=M11(PowerPAK-SO8)
+Added Component: Designator=M12(PowerPAK-SO8)
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M1-1
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M1-2
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M1-3
+Added Pin To Net: NetName=12V Pin=M1-5
+Added Pin To Net: NetName=12V Pin=M1-6
+Added Pin To Net: NetName=12V Pin=M1-7
+Added Pin To Net: NetName=12V Pin=M1-8
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M8-1
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M8-2
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M8-3
+Added Pin To Net: NetName=12V Pin=M8-5
+Added Pin To Net: NetName=12V Pin=M8-6
+Added Pin To Net: NetName=12V Pin=M8-7
+Added Pin To Net: NetName=12V Pin=M8-8
+Added Pin To Net: NetName=MOTORB_HI Pin=M9-1
+Added Pin To Net: NetName=MOTORB_HI Pin=M9-2
+Added Pin To Net: NetName=MOTORB_HI Pin=M9-3
+Added Pin To Net: NetName=NetM9_4 Pin=M9-4
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M9-5
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M9-6
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M9-7
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M9-8
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M9-8
+Added Pin To Net: NetName=MOTORB_LO Pin=M10-1
+Added Pin To Net: NetName=MOTORB_LO Pin=M10-2
+Added Pin To Net: NetName=MOTORB_LO Pin=M10-3
+Added Pin To Net: NetName=NetM10_4 Pin=M10-4
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M10-5
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M10-6
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M10-7
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M10-8
+Added Pin To Net: NetName=DRVB_BRIDGE_H Pin=M10-8
+Added Pin To Net: NetName=DRVB_I_SENSE_P Pin=M11-1
+Added Pin To Net: NetName=DRVB_I_SENSE_P Pin=M11-2
+Added Pin To Net: NetName=DRVB_I_SENSE_P Pin=M11-3
+Added Pin To Net: NetName=NetM11_4 Pin=M11-4
+Added Pin To Net: NetName=MOTORB_HI Pin=M11-5
+Added Pin To Net: NetName=MOTORB_HI Pin=M11-6
+Added Pin To Net: NetName=MOTORB_HI Pin=M11-7
+Added Pin To Net: NetName=MOTORB_HI Pin=M11-8
+Added Pin To Net: NetName=MOTORB_HI Pin=M11-8
+Added Pin To Net: NetName=DRVB_I_SENSE_P Pin=M12-1
+Added Pin To Net: NetName=DRVB_I_SENSE_P Pin=M12-2
+Added Pin To Net: NetName=DRVB_I_SENSE_P Pin=M12-3
+Added Pin To Net: NetName=NetM12_4 Pin=M12-4
+Added Pin To Net: NetName=MOTORB_LO Pin=M12-5
+Added Pin To Net: NetName=MOTORB_LO Pin=M12-6
+Added Pin To Net: NetName=MOTORB_LO Pin=M12-7
+Added Pin To Net: NetName=MOTORB_LO Pin=M12-8
+Added Pin To Net: NetName=MOTORB_LO Pin=M12-8
+Added Pin To Net: NetName=NetR93_1 Pin=U9-12
+Added Pin To Net: NetName=NetR94_1 Pin=U10-12
+Added Member To Class: ClassName=Motor B Driver Member=Component M9 BSC009NE2L
+Added Member To Class: ClassName=Motor B Driver Member=Component M10 BSC009NE2L
+Added Member To Class: ClassName=Motor B Driver Member=Component M11 BSC009NE2L
+Added Member To Class: ClassName=Motor B Driver Member=Component M12 BSC009NE2L

@@ -1,0 +1,12 @@
+Added Component: Designator=J9(1x8 Header)
+Added Pin To Net: NetName=GND Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-2
+Added Pin To Net: NetName=MOSI Pin=J9-3
+Added Pin To Net: NetName=MISO Pin=J9-4
+Added Pin To Net: NetName=SCK Pin=J9-5
+Added Pin To Net: NetName=C\S\_A Pin=J9-6
+Added Pin To Net: NetName=C\S\_B Pin=J9-7
+Added Pin To Net: NetName=C\S\_BLE Pin=J9-8
+Added Pin To Net: NetName=GND Pin=U9-12
+Added Pin To Net: NetName=GND Pin=U10-12
+Added Member To Class: ClassName=Microcontroller Member=Component J9 1x8 Header

@@ -1,0 +1,135 @@
+Removed Pin From Net: NetName=NetC21_1 Pin=R24-2
+Removed Pin From Net: NetName=NetC42_1 Pin=R50-2
+Removed Member From Class: ClassName=Motor A Driver Member=R24
+Removed Member From Class: ClassName=Motor B Driver Member=R50
+Added Component: Designator=R85(RES0603W)
+Added Component: Designator=R86(RES0603W)
+Added Component: Designator=R97(RES0603W)
+Added Component: Designator=R98(RES0603W)
+Added Component: Designator=R111(RES0603W)
+Added Component: Designator=R112(RES0603W)
+Added Component: Designator=R129(RES0603W)
+Added Component: Designator=R130(RES0603W)
+Added Component: Designator=R131(RES0603W)
+Added Component: Designator=R132(RES0603W)
+Added Component: Designator=R133(RES0603W)
+Added Component: Designator=R134(RES0603W)
+Added Component: Designator=R135(RES0603W)
+Added Component: Designator=R136(RES0603W)
+Added Pin To Net: NetName=US_S0 Pin=R24-1
+Added Pin To Net: NetName=US_S1 Pin=R50-1
+Added Pin To Net: NetName=US_S2 Pin=R85-1
+Added Pin To Net: NetName=NetM6_3 Pin=U1-38
+Added Pin To Net: NetName=NetM13_3 Pin=U1-60
+Added Pin To Net: NetName=GND Pin=U9-12
+Added Pin To Net: NetName=GND Pin=U10-12
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR24_2 Pin=U1-61
+Added Net: Name=NetR24_2
+Added Pin To Net: NetName=NetR50_2 Pin=R50-2
+Added Pin To Net: NetName=NetR50_2 Pin=U1-91
+Added Net: Name=NetR50_2
+Added Pin To Net: NetName=NetR85_2 Pin=R85-2
+Added Pin To Net: NetName=NetR85_2 Pin=U1-92
+Added Net: Name=NetR85_2
+Added Pin To Net: NetName=NetR86_1 Pin=R86-1
+Added Pin To Net: NetName=NetR86_1 Pin=U15-6
+Added Net: Name=NetR86_1
+Added Pin To Net: NetName=NetR86_2 Pin=R86-2
+Added Pin To Net: NetName=NetR86_2 Pin=U1-66
+Added Net: Name=NetR86_2
+Added Pin To Net: NetName=NetR97_1 Pin=R97-1
+Added Pin To Net: NetName=NetR97_1 Pin=U8-6
+Added Net: Name=NetR97_1
+Added Pin To Net: NetName=NetR97_2 Pin=R97-2
+Added Pin To Net: NetName=NetR97_2 Pin=U1-67
+Added Net: Name=NetR97_2
+Added Pin To Net: NetName=NetR98_1 Pin=R98-1
+Added Pin To Net: NetName=NetR98_1 Pin=U11-8
+Added Net: Name=NetR98_1
+Added Pin To Net: NetName=NetR98_2 Pin=R98-2
+Added Pin To Net: NetName=NetR98_2 Pin=U1-21
+Added Net: Name=NetR98_2
+Added Pin To Net: NetName=NetR111_1 Pin=R111-1
+Added Pin To Net: NetName=NetR111_1 Pin=U13-8
+Added Net: Name=NetR111_1
+Added Pin To Net: NetName=NetR111_2 Pin=R111-2
+Added Pin To Net: NetName=NetR111_2 Pin=U1-20
+Added Net: Name=NetR111_2
+Added Pin To Net: NetName=NetR112_1 Pin=R112-1
+Added Pin To Net: NetName=NetR112_1 Pin=U16-8
+Added Net: Name=NetR112_1
+Added Pin To Net: NetName=NetR112_2 Pin=R112-2
+Added Pin To Net: NetName=NetR112_2 Pin=U1-26
+Added Net: Name=NetR112_2
+Added Pin To Net: NetName=NetR129_1 Pin=R129-1
+Added Pin To Net: NetName=NetR129_1 Pin=U12-8
+Added Net: Name=NetR129_1
+Added Pin To Net: NetName=NetR129_2 Pin=R129-2
+Added Pin To Net: NetName=NetR129_2 Pin=U1-27
+Added Net: Name=NetR129_2
+Added Pin To Net: NetName=NetR130_1 Pin=R130-1
+Added Pin To Net: NetName=NetR130_1 Pin=U14-8
+Added Net: Name=NetR130_1
+Added Pin To Net: NetName=NetR130_2 Pin=R130-2
+Added Pin To Net: NetName=NetR130_2 Pin=U1-32
+Added Net: Name=NetR130_2
+Added Pin To Net: NetName=NetR131_1 Pin=R131-1
+Added Pin To Net: NetName=NetR131_1 Pin=U17-8
+Added Net: Name=NetR131_1
+Added Pin To Net: NetName=NetR131_2 Pin=R131-2
+Added Pin To Net: NetName=NetR131_2 Pin=U1-33
+Added Net: Name=NetR131_2
+Added Pin To Net: NetName=NetR132_1 Pin=R132-1
+Added Pin To Net: NetName=NetR132_1 Pin=U3-15
+Added Pin To Net: NetName=NetR132_1 Pin=U3-16
+Added Net: Name=NetR132_1
+Added Pin To Net: NetName=NetR132_2 Pin=R132-2
+Added Pin To Net: NetName=NetR132_2 Pin=U1-43
+Added Net: Name=NetR132_2
+Added Pin To Net: NetName=NetR133_1 Pin=R133-1
+Added Pin To Net: NetName=NetR133_1 Pin=U3-13
+Added Pin To Net: NetName=NetR133_1 Pin=U3-14
+Added Net: Name=NetR133_1
+Added Pin To Net: NetName=NetR133_2 Pin=R133-2
+Added Pin To Net: NetName=NetR133_2 Pin=U1-44
+Added Net: Name=NetR133_2
+Added Pin To Net: NetName=NetR134_1 Pin=R134-1
+Added Pin To Net: NetName=NetR134_1 Pin=U1-81
+Added Net: Name=NetR134_1
+Added Pin To Net: NetName=NetR134_2 Pin=R134-2
+Added Pin To Net: NetName=NetR134_2 Pin=U2-15
+Added Pin To Net: NetName=NetR134_2 Pin=U2-16
+Added Net: Name=NetR134_2
+Added Pin To Net: NetName=NetR135_1 Pin=R135-1
+Added Pin To Net: NetName=NetR135_1 Pin=U1-82
+Added Net: Name=NetR135_1
+Added Pin To Net: NetName=NetR135_2 Pin=R135-2
+Added Pin To Net: NetName=NetR135_2 Pin=U2-13
+Added Pin To Net: NetName=NetR135_2 Pin=U2-14
+Added Net: Name=NetR135_2
+Added Pin To Net: NetName=NetR136_1 Pin=R136-1
+Added Pin To Net: NetName=NetR136_1 Pin=U1-68
+Added Net: Name=NetR136_1
+Added Pin To Net: NetName=NetR136_2 Pin=R136-2
+Added Pin To Net: NetName=NetR136_2 Pin=U8-3
+Added Net: Name=NetR136_2
+Added Pin To Net: NetName=NetU1_19 Pin=U1-19
+Added Pin To Net: NetName=NetU1_19 Pin=U15-3
+Added Net: Name=NetU1_19
+Added Member To Class: ClassName=Microcontroller Member=Component R24 220R
+Added Member To Class: ClassName=Microcontroller Member=Component R50 220R
+Added Member To Class: ClassName=Microcontroller Member=Component R85 220R
+Added Member To Class: ClassName=Microcontroller Member=Component R86 220R
+Added Member To Class: ClassName=Microcontroller Member=Component R97 220R
+Added Member To Class: ClassName=Microcontroller Member=Component R98 220R
+Added Member To Class: ClassName=Microcontroller Member=Component R111 220R
+Added Member To Class: ClassName=Microcontroller Member=Component R112 220R
+Added Member To Class: ClassName=Microcontroller Member=Component R129 220R
+Added Member To Class: ClassName=Microcontroller Member=Component R130 220R
+Added Member To Class: ClassName=Microcontroller Member=Component R131 220R
+Added Member To Class: ClassName=Microcontroller Member=Component R132 220R
+Added Member To Class: ClassName=Microcontroller Member=Component R133 220R
+Added Member To Class: ClassName=Microcontroller Member=Component R134 220R
+Added Member To Class: ClassName=Microcontroller Member=Component R135 220R
+Added Member To Class: ClassName=Microcontroller Member=Component R136 220R

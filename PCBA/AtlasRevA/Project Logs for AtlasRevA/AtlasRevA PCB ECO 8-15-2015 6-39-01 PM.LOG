@@ -1,0 +1,32 @@
+Added Component: Designator=C82(CAP0603W)
+Added Component: Designator=C83(CAP0603W)
+Added Component: Designator=C84(CAP0603W)
+Added Component: Designator=C85(CAP0603W)
+Added Component: Designator=C86(CAP0603W)
+Added Component: Designator=C87(CAP0603W)
+Added Pin To Net: NetName=NetM16_1 Pin=C82-1
+Added Pin To Net: NetName=GND Pin=C82-2
+Added Pin To Net: NetName=NetM17_1 Pin=C83-1
+Added Pin To Net: NetName=GND Pin=C83-2
+Added Pin To Net: NetName=NetM18_1 Pin=C84-1
+Added Pin To Net: NetName=GND Pin=C84-2
+Added Pin To Net: NetName=NetM19_1 Pin=C85-1
+Added Pin To Net: NetName=GND Pin=C85-2
+Added Pin To Net: NetName=NetM20_1 Pin=C86-1
+Added Pin To Net: NetName=GND Pin=C86-2
+Added Pin To Net: NetName=NetM21_1 Pin=C87-1
+Added Pin To Net: NetName=GND Pin=C87-2
+Added Pin To Net: NetName=GND Pin=U9-12
+Added Pin To Net: NetName=GND Pin=U10-12
+Change Net Name : Old Net Name=NetM16_1 New Net Name=NetC82_1
+Change Net Name : Old Net Name=NetM17_1 New Net Name=NetC83_1
+Change Net Name : Old Net Name=NetM18_1 New Net Name=NetC84_1
+Change Net Name : Old Net Name=NetM19_1 New Net Name=NetC85_1
+Change Net Name : Old Net Name=NetM20_1 New Net Name=NetC86_1
+Change Net Name : Old Net Name=NetM21_1 New Net Name=NetC87_1
+Added Member To Class: ClassName=Ultrasonics Member=Component C82 30pF
+Added Member To Class: ClassName=Ultrasonics Member=Component C83 30pF
+Added Member To Class: ClassName=Ultrasonics Member=Component C84 30pF
+Added Member To Class: ClassName=Ultrasonics Member=Component C85 30pF
+Added Member To Class: ClassName=Ultrasonics Member=Component C86 30pF
+Added Member To Class: ClassName=Ultrasonics Member=Component C87 30pF

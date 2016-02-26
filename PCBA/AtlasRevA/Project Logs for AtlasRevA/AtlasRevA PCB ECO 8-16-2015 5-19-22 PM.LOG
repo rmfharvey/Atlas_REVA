@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=DRVB_I_SENSE_P Pin=U7-5
+Removed Pin From Net: NetName=NetC57_1 Pin=U7-6
+Removed Pin From Net: NetName=NetC57_1 Pin=U7-7
+Added Component: Designator=C88(CAP0603W)
+Added Component: Designator=U18(SOIC-8)
+Added Pin To Net: NetName=3.3V Pin=C88-1
+Added Pin To Net: NetName=GND Pin=C88-2
+Added Pin To Net: NetName=GND Pin=U7-5
+Added Pin To Net: NetName=3.3V Pin=U7-6
+Added Pin To Net: NetName=GND Pin=U9-12
+Added Pin To Net: NetName=GND Pin=U10-12
+Added Pin To Net: NetName=NetC57_1 Pin=U18-1
+Added Pin To Net: NetName=NetC57_1 Pin=U18-2
+Added Pin To Net: NetName=DRVB_I_SENSE_P Pin=U18-3
+Added Pin To Net: NetName=GND Pin=U18-4
+Added Pin To Net: NetName=GND Pin=U18-5
+Added Pin To Net: NetName=3.3V Pin=U18-6
+Added Pin To Net: NetName=3.3V Pin=U18-8
+Added Member To Class: ClassName=Motor B Driver Member=Component C88 0.1uF
+Added Member To Class: ClassName=Motor B Driver Member=Component U18 OPA2377AIDR

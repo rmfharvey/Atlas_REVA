@@ -1,0 +1,11 @@
+Added Component: Designator=D15(LED Green 0603)
+Added Component: Designator=R127(RES0603W)
+Added Pin To Net: NetName=GND Pin=D15-1
+Added Pin To Net: NetName=3.3V_PROT Pin=R127-2
+Added Pin To Net: NetName=GND Pin=U9-12
+Added Pin To Net: NetName=GND Pin=U10-12
+Added Pin To Net: NetName=NetD15_2 Pin=D15-2
+Added Pin To Net: NetName=NetD15_2 Pin=R127-1
+Added Net: Name=NetD15_2
+Added Member To Class: ClassName=Power Member=Component D15 LTST-S270KGKT
+Added Member To Class: ClassName=Power Member=Component R127 68R

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=U9-12
+Added Pin To Net: NetName=GND Pin=U10-12
+Added Net: Name=SPI_MISO
+Added Net: Name=SPI_MOSI
+Added Net: Name=SPI_SCK

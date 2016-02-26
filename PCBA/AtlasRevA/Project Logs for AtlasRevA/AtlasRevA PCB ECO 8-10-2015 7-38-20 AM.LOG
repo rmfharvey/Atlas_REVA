@@ -1,0 +1,61 @@
+Added Component: Designator=M1(PowerPAK-SO8)
+Added Component: Designator=M2(PowerPAK-SO8)
+Added Component: Designator=M3(PowerPAK-SO8)
+Added Component: Designator=M4(PowerPAK-SO8)
+Added Component: Designator=M5(PowerPAK-SO8)
+Added Component: Designator=R7(RES0603W)
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M1-1
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M1-2
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M1-3
+Added Pin To Net: NetName=NetM1_4 Pin=M1-4
+Added Pin To Net: NetName=12V Pin=M1-5
+Added Pin To Net: NetName=12V Pin=M1-6
+Added Pin To Net: NetName=12V Pin=M1-7
+Added Pin To Net: NetName=12V Pin=M1-8
+Added Pin To Net: NetName=12V Pin=M1-8
+Added Pin To Net: NetName=MOTORA_HI Pin=M2-1
+Added Pin To Net: NetName=MOTORA_HI Pin=M2-2
+Added Pin To Net: NetName=MOTORA_HI Pin=M2-3
+Added Pin To Net: NetName=NetM2_4 Pin=M2-4
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M2-5
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M2-6
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M2-7
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M2-8
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M2-8
+Added Pin To Net: NetName=MOTORA_LO Pin=M3-1
+Added Pin To Net: NetName=MOTORA_LO Pin=M3-2
+Added Pin To Net: NetName=MOTORA_LO Pin=M3-3
+Added Pin To Net: NetName=NetM3_4 Pin=M3-4
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M3-5
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M3-6
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M3-7
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M3-8
+Added Pin To Net: NetName=DRVA_BRIDGE_H Pin=M3-8
+Added Pin To Net: NetName=DRVA_I_SENSE_P Pin=M4-1
+Added Pin To Net: NetName=DRVA_I_SENSE_P Pin=M4-2
+Added Pin To Net: NetName=DRVA_I_SENSE_P Pin=M4-3
+Added Pin To Net: NetName=NetM4_4 Pin=M4-4
+Added Pin To Net: NetName=MOTORA_HI Pin=M4-5
+Added Pin To Net: NetName=MOTORA_HI Pin=M4-6
+Added Pin To Net: NetName=MOTORA_HI Pin=M4-7
+Added Pin To Net: NetName=MOTORA_HI Pin=M4-8
+Added Pin To Net: NetName=MOTORA_HI Pin=M4-8
+Added Pin To Net: NetName=DRVA_I_SENSE_P Pin=M5-1
+Added Pin To Net: NetName=DRVA_I_SENSE_P Pin=M5-2
+Added Pin To Net: NetName=DRVA_I_SENSE_P Pin=M5-3
+Added Pin To Net: NetName=NetM5_4 Pin=M5-4
+Added Pin To Net: NetName=MOTORA_LO Pin=M5-5
+Added Pin To Net: NetName=MOTORA_LO Pin=M5-6
+Added Pin To Net: NetName=MOTORA_LO Pin=M5-7
+Added Pin To Net: NetName=MOTORA_LO Pin=M5-8
+Added Pin To Net: NetName=MOTORA_LO Pin=M5-8
+Added Pin To Net: NetName=DRVA_BRG_H1 Pin=R7-1
+Added Pin To Net: NetName=NetM2_4 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=U9-12
+Added Pin To Net: NetName=GND Pin=U10-12
+Added Member To Class: ClassName=Motor A Driver Member=Component M1 BSC009NE2L
+Added Member To Class: ClassName=Motor A Driver Member=Component M2 BSC009NE2L
+Added Member To Class: ClassName=Motor A Driver Member=Component M3 BSC009NE2L
+Added Member To Class: ClassName=Motor A Driver Member=Component M4 BSC009NE2L
+Added Member To Class: ClassName=Motor A Driver Member=Component M5 BSC009NE2L
+Added Member To Class: ClassName=Motor A Driver Member=Component R7 100R

@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=3.3V Pin=J3-5
+Removed Pin From Net: NetName=3.3V Pin=J4-5
+Added Component: Designator=C61(CAP1206R)
+Added Component: Designator=C62(CAP0603W)
+Added Component: Designator=C63(CAP1206R)
+Added Component: Designator=R72(RES0603W)
+Added Component: Designator=U6(SOT-223-6)
+Added Pin To Net: NetName=GND Pin=C61-1
+Added Pin To Net: NetName=5V Pin=C61-2
+Added Pin To Net: NetName=GND Pin=C62-2
+Added Pin To Net: NetName=GND Pin=C63-1
+Added Pin To Net: NetName=5V Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-6
+Added Pin To Net: NetName=3.3V_PROT Pin=C63-2
+Added Pin To Net: NetName=3.3V_PROT Pin=J3-5
+Added Pin To Net: NetName=3.3V_PROT Pin=J4-5
+Added Pin To Net: NetName=3.3V_PROT Pin=U6-2
+Added Net: Name=3.3V_PROT
+Added Pin To Net: NetName=NetC62_1 Pin=C62-1
+Added Pin To Net: NetName=NetC62_1 Pin=U6-4
+Added Net: Name=NetC62_1
+Added Pin To Net: NetName=NetR72_1 Pin=R72-1
+Added Pin To Net: NetName=NetR72_1 Pin=U1-69
+Added Net: Name=NetR72_1
+Added Pin To Net: NetName=NetR72_2 Pin=R72-2
+Added Pin To Net: NetName=NetR72_2 Pin=U6-5
+Added Net: Name=NetR72_2
+Added Class: Name=Power
+Added Member To Class: ClassName=Microcontroller Member=Component R72 220R
